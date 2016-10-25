@@ -1,0 +1,11 @@
+{
+  "name": "semaio/magento1-lib-enum",
+  "type": "library",
+  "description": "PHP Enum implementation for Magento 1",
+  "keywords": [
+    "enum"
+  ],
+  "homepage": "http://github.com/myclabs/php-enum",
+  "license": "MIT"
+}
+
